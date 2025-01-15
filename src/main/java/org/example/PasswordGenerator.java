@@ -1,4 +1,4 @@
-package app;
+package org.example;
 
 public class PasswordGenerator {
     private static final String LOWERCASE_CHARS = "abcdefghijklmnopqrstuvwxyz";
